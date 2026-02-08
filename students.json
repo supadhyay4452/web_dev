@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Rahul",
+      "marks": [80, 70, 60],
+      "total": 210,
+      "average": 70.0,
+      "status": "Pass"
+    }
+  ]
+[
+    {
+        "name":"sumit",
+        "marks":[89,90,30],
+        "total":209,
+        "average":69.67
+        "status":"pass"
+    }
+]  

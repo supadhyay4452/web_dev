@@ -1,0 +1,3 @@
+Rahul|80,70,60|70.0|Pass
+Aman|30,35,40|35.0|Fail
+sumit|34,54|44.0|Pass
